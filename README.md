@@ -2,15 +2,15 @@
 
 <h1 align="center">Hi, I'm Anand Swaroop Verma</h1>
 <h3 align="center">An aspiring Full Stack Web Developer.. still learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3587000-Coding">
+<img align="right" alt="Coding" width="400" src="gif.gif">
 
-- 🔭 I’m currently working on **3-D website development**
+- 🔭 Currently working on **3-D Website Development**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 Currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ser1ousGIT](https://github.com/Ser1ousGIT)
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Well versed in **HTML, CSS, JS**
 
 - 📫 How to reach me **anandswaroop0101@gmail.com**
 
