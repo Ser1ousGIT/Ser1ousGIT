@@ -1,16 +1,16 @@
 [![MasterHead](banner.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi, I'm Anand Swaroop Verma</h1>
-<h3 align="center">An aspiring Full Stack Web Developer.. still learning.</h3>
+<h3 align="center">An aspiring DevOps Engineer.. still learning.</h3>
 <img align="right" alt="Coding" width="400" src="gif.gif">
 
-- 🔭 Currently working on **3-D Website Development**
+- 🔭 Currently working on **Website for my Coding Club**
 
-- 🌱 Currently learning **DSA**
+- 🌱 Currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ser1ousGIT](https://github.com/Ser1ousGIT)
 
-- 💬 Well versed in **HTML, CSS, JS**
+- 💬 Well versed in **HTML, CSS, JS, Python, Java, C, Linux**
 
 - 📫 How to reach me **anandswaroop0101@gmail.com**
 
