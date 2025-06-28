@@ -4,15 +4,15 @@
 <h3 align="center">An aspiring DevOps Engineer.. still learning.</h3>
 <img align="right" alt="Coding" width="400" src="gif.gif">
 
-- 🔭 Currently working on **Website for my Coding Club**
+- Currently working on **Confidential Website for my Intern-Project**
 
-- 🌱 Currently learning **Python**
+- Currently learning **Python Scripting**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ser1ousGIT](https://github.com/Ser1ousGIT)
+- All of my projects are available at [https://github.com/Ser1ousGIT](https://github.com/Ser1ousGIT)
 
-- 💬 Well versed in **HTML, CSS, JS, Python, Java, C, Linux**
+- Well versed in **Python Scripting/Automation, HTML, CSS, JS, Java, C, Linux**
 
-- 📫 How to reach me **anandswaroop0101@gmail.com**
+- How to reach me **anandswaroop0101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
